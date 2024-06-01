@@ -1,3 +1,2 @@
-👋 Hi, I’m James
-
-I enjoy coding.
+#### 👋 Hi, I’m James
+### I enjoy coding.
